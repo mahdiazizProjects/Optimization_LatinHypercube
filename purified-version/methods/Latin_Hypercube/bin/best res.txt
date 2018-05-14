@@ -1,0 +1,2 @@
+core eff=0.5
+corr-eff=0.99;
